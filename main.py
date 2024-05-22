@@ -6,3 +6,6 @@ from scapy.all import *
 def get_default_gateway():
 
 def get_mac():
+
+
+def main():
